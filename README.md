@@ -8,3 +8,7 @@ Patrick: Army'
 
 what's your favorite food?
 Patrick: Pizza
+Mike: Pizza
+
+What made you take this class?
+Mike: To learn development to add to skill set.
