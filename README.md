@@ -1,1 +1,2 @@
-# push-pull-project
+where are you from? 
+Patrick: Jamestown, NY
