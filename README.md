@@ -12,3 +12,7 @@ Mike: Pizza
 
 What made you take this class?
 Mike: To learn development to add to skill set.
+Patrick: just wanted to learn something new.
+
+What job would you like after this class?
+Patrick: Web-developer
